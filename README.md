@@ -66,11 +66,3 @@ You can find the project summary and visual insights in the PowerPoint Presentat
 
 ---
 
-👨‍💻 Contributors
-
-- Raj Yadav – Data Cleaning & Project Lead
-- Nicky – SQL Analysis
-- Kaniska – Data Visualization
-
----
-
