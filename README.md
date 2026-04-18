@@ -60,9 +60,3 @@ This project aims to analyze a retail superstore's sales data to derive actionab
 
 ---
 
-📎 Presentation
-
-You can find the project summary and visual insights in the PowerPoint Presentation: masai_project_presentation.pptx
-
----
-
